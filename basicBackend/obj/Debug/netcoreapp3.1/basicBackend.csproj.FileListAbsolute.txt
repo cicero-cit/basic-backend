@@ -32,8 +32,6 @@ C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\basicBackend.Application.pdb
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\basicBackend.Core.pdb
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.csprojAssemblyReference.cache
-C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.csproj.CoreCompileInputs.cache
-C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.AssemblyInfoInputs.cache
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.AssemblyInfo.cs
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.RazorTargetAssemblyInfo.cache
@@ -43,3 +41,18 @@ C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.dll
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.pdb
 C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.genruntimeconfig.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.csproj.CoreCompileInputs.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\obj\Debug\netcoreapp3.1\basicBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
