@@ -3,3 +3,12 @@ C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\bin\Debug
 C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.AssemblyInfo.cs
 C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.csprojAssemblyReference.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\bin\Debug\netstandard2.0\basicBackend.Infrastructure.deps.json
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\bin\Debug\netstandard2.0\basicBackend.Infrastructure.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\bin\Debug\netstandard2.0\basicBackend.Infrastructure.pdb
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\bin\Debug\netstandard2.0\basicBackend.Application.pdb
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\bin\Debug\netstandard2.0\basicBackend.Core.pdb
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.csproj.CopyComplete
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Infrastructure\obj\Debug\netstandard2.0\basicBackend.Infrastructure.pdb

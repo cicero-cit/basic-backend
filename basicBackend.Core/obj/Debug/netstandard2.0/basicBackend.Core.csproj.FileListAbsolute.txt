@@ -1,0 +1,9 @@
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\bin\Debug\netstandard2.0\basicBackend.Core.deps.json
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\bin\Debug\netstandard2.0\basicBackend.Core.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\bin\Debug\netstandard2.0\basicBackend.Core.pdb
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\obj\Debug\netstandard2.0\basicBackend.Core.csprojAssemblyReference.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\obj\Debug\netstandard2.0\basicBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\obj\Debug\netstandard2.0\basicBackend.Core.AssemblyInfoInputs.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\obj\Debug\netstandard2.0\basicBackend.Core.AssemblyInfo.cs
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\obj\Debug\netstandard2.0\basicBackend.Core.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Core\obj\Debug\netstandard2.0\basicBackend.Core.pdb
