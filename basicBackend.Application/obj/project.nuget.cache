@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V31s43O7Cb6Z+em6WdgGttGqmoIU9AA1wHssAoWVOP3rAkRqRcHWvY8q8lCZYhLMNxvWChczRq6SUw1l58lgAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cicero\\Documents\\job\\basicBackend\\basicBackend.Application\\basicBackend.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cicero\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cicero\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
