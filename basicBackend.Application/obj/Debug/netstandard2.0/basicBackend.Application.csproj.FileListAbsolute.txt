@@ -1,0 +1,4 @@
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Application\bin\Debug\netstandard2.0\basicBackend.Core.dll
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Application\obj\Debug\netstandard2.0\basicBackend.Application.csprojAssemblyReference.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Application\obj\Debug\netstandard2.0\basicBackend.Application.AssemblyInfoInputs.cache
+C:\Users\cicero\Documents\job\basicBackend\basicBackend.Application\obj\Debug\netstandard2.0\basicBackend.Application.AssemblyInfo.cs
