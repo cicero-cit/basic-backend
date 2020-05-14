@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "basicBackend.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/basicBackend.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/basicBackend.Core.dll": {}
+        }
       }
     }
   },
@@ -172,11 +182,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "basicBackend.Core/1.0.0": {
+      "type": "project",
+      "path": "../basicBackend.Core/basicBackend.Core.csproj",
+      "msbuildProject": "../basicBackend.Core/basicBackend.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "basicBackend.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -204,7 +220,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\cicero\\Documents\\job\\basicBackend\\basicBackend.Core\\basicBackend.Core.csproj": {
+              "projectPath": "C:\\Users\\cicero\\Documents\\job\\basicBackend\\basicBackend.Core\\basicBackend.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
